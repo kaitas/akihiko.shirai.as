@@ -9,4 +9,5 @@ akihiko.shirai.as
 - projects.shirai.as としてのドメインアサイン完了
 - akihiko.shirai.as/projects からのリダイレクトをさせればよいのでは
 
-- aki.shirai.as/sa2015 を projects.shirai.as/sa2015 
+- aki.shirai.as/sa2015 を projects.shirai.as/sa2015 に移植
+
