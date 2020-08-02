@@ -1,214 +1,117 @@
-# "おもしろい研究"への挑戦 - Challenges for "Omoshiroi" research
+# SIGGARPH ASIA 2015 神戸
 
-佐藤誠先生ご退職記念シンポジウム「パターン認識と人工現実感の40 年」
+SIGGRAPH ASIA 2015 神戸の日本語ポータルです
 
-- 2016-03-19
-- 佐藤誠先生ご退職記念シンポジウム「パターン認識と人工現実感の40 年」
-- [SlideShare](https://www.slideshare.net/aquihiko/ss-60516411)
-<a href="./PDF/ProfSato20160319.pdf" onclick= "ga('send', 'event', 'download','click','/PDF/ProfSato20160319.pdf');">
-▶ (PDF) おもしろい研究"への挑戦
-</a>
+## 【予習＆まとめ】
 
-<blockquote class="twitter-tweet">
- <p lang="ja" dir="ltr">先日の日本発の触覚VRの祖のひとり，東京工業大学佐藤誠先生の最終講義での白井の講演を公開させていただきました．<a href="https://t.co/Dm70davAnt">https://t.co/Dm70davAnt</a><br>
- 動画は入ってませんが，おもしろさの科学へのアプローチの礎になればと．
- <a href="https://t.co/M17P4BSKqF">https://t.co/M17P4BSKqF</a></p>
- <a href="https://twitter.com/o_ob/status/717393169671987200?ref_src=twsrc%5Etfw">April 5, 2016</a>
- </blockquote>
+- 1日目みどころ・まとめ
+- 2日目みどころ・まとめ
+- 3日目みどころ・まとめ
+- 4日目みどころ・まとめ
 
-日本発の触覚VRの祖のひとり，東京工業大学佐藤誠先生の最終講義での白井の講演を公開させていただきました．
-動画は入ってませんが，おもしろさの科学へのアプローチの礎になればと思います．ちなみにスライド63ページを20分(ぐらい)で喋っていますね…．
+## 【便利なリンク】
 
-## 当日のプログラム(前半)
+- 公式サイト： http://sa2015.siggraph.org/jp/
+- 日本語半公式Facebook（白井管理）： https://www.facebook.com/SA2015Kobe
+- SIGGRAPH ASIA 2015神戸ローカルコミッティ： https://www.facebook.com/SA15KobeLocalcom
+- このサイトのURL： http://aki.shirai.as/sa2015/
+- 初心者向け情報（2015/7/28）： http://aki.shirai.as/2015/07/sa2015-guide/
+- （公式）日本語みどころまとめ（プログラム概要）
+- （公式）一目でわかるスケジュール（PDF: day1, day2, day3, day4）
+- （公式）コンピュータ・アニメーション・フェスティバル(CAF)上映プログラム
+- （公式）パーティ情報（ネットワーキング・イベント）
+- 【初心者向け】SIGGRAPH ASIA 2015 Kobe登録関係まとめ
+- オンライン登録が28日(水)まで延長となりました！（日本語みどころ情報）
+- SIGGRAPHA ASIA 教育シンポジウム 11/3の面々が素晴らしい件（2015/10/11）： http://aki.shirai.as/2015/10/sa15-edu-sympo-1103/
+- 日本語Twitter #SIGGRAPH15Kobe
 
-- 日時：2016年3月19日（土）
-- 場所：東京工業大学すずかけ台キャンパスすずかけホール
-- 11:00-12:00佐藤研、中本研、只野研、長谷川研 研究室見学R2棟4階、5階、6階
-- 佐藤誠先生ご退職記念シンポジウム「パターン認識と人工現実感の４０年」 会場： 3F 多目的ホール
-- 13:00-13:20 シミュレーションの感触 長谷川晶一
-- 13:20-13:40 現実を書き換える映像投影技術 橋本直己
-- 13:40-14:00 光線再生による3次元映像表示（仮） 圓道知博
-- 14:00-14:20 "おもしろい研究"への挑戦 白井暁彦
-- 14:30-14:50 身体の未来 稲見昌彦
-- 14:50-15:10 VR研究・開発についての一考察 石井雅博
-- 15:10-15:30 言語コミュニケーションの基層 高松亮
-- 15:30-15:50 類似度再考－パターン認識の世界を放浪して－ 和田俊和
+#SIGGRAPH15Kobe のツイート
 
-## 佐藤誠先生 最終講義
-- 会場： 3F 多目的ホール
-- 16:00-17:30 栞糸－40年間の大学生活を振り返る－ 佐藤誠
-- 17:45-20:30 記念祝賀会 会場： 2F モトテカコーヒー
+## ■登録関係
 
-## 当日の様子
-白井のTwitterログで見つけることができますが，佐藤先生を支える先生方の大変素晴らしい講演があり，良い刺激になりました．
+早期割引は10月2日まで！その後は10月23日10月28日19時(日本時間)までが通常価格（当日より安い）、かつ登録可能期間です。それ以降ですと現地登録のみになり、バッジに名前が載らない、シアターのチケットも購入できない可能性があるようです。
+http://sa2015.siggraph.org/jp/registration-travel/registration-categories-fees.html
 
+![sa1](./sa1.png)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">SPIDAR for street dance. <a href="https://t.co/eqgjLZb9Sb">pic.twitter.com/eqgjLZb9Sb</a></p>
-<a href="https://twitter.com/o_ob/status/711190520773550081?ref_src=twsrc%5Etfw">March 19, 2016</a></blockquote>
+## ■神戸もりあげ情報（掲載依頼歓迎）
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">DOLPHY in the move with SPIDAR. <a href="https://t.co/EDoDG0QTYW">pic.twitter.com/EDoDG0QTYW</a></p>
-<a href="https://twitter.com/o_ob/status/711189762762117120?ref_src=twsrc%5Etfw">March 19, 2016</a></blockquote>
+地元での応援も本格的に始まっているようです！
+https://www.facebook.com/hyogo.sangyo
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">佐藤先生の最終講義「&quot;おもしろい研究&quot;への挑戦」での講演終わり！<br>続いて稲見先生「身体の未来」。 <a href="https://t.co/KMCazZOjEO">pic.twitter.com/KMCazZOjEO</a></p><a href="https://twitter.com/o_ob/status/711065898530906112?ref_src=twsrc%5Etfw">March 19, 2016</a></blockquote>
+神戸市の取り組みとローカルコミッティの活動について：
+http://www.city.kobe.lg.jp/information/project/innovation/siggraph/index.html #SIGGRAPH15Kobe
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Giving a speech by Prof INAMI for Prof Makoto SATO&#39;s last lecture. <a href="https://t.co/ZyPK2nDIZA">pic.twitter.com/ZyPK2nDIZA</a></p>
-<a href="https://twitter.com/o_ob/status/711153792746594304?ref_src=twsrc%5Etfw">March 19, 2016</a></blockquote>
+SIGGRAPH ASIA 2015神戸ローカルコミッティFacebook：
 
+https://www.facebook.com/SA15KobeLocalcom
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">SPIDAR-S, single string for smartphone. <a href="https://t.co/yy0l1M4UcH">pic.twitter.com/yy0l1M4UcH</a></p>
-<a href="https://twitter.com/o_ob/status/711190541883428864?ref_src=twsrc%5Etfw">March 19, 2016</a></blockquote>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「学遊一如」。<br>最後にSPIDAR-Sを参加者に配布とか！ <a href="https://t.co/t3XMGfbbtr">pic.twitter.com/t3XMGfbbtr</a></p>
-<a href="https://twitter.com/o_ob/status/711189799713964032?ref_src=twsrc%5Etfw">March 19, 2016</a></blockquote>
 
-佐藤先生の講演は素晴らしかったです．本当にクモ好きなんですねえ．
+## パーティ・交流関係
 
-## 自分の講演について振り返り
+- 公式ネットワーキングイベント告知もご参照
 
-- [SlideShare おもしろい研究&quot;への挑戦 - Challenges for &quot;Omoshiroi&quot; research](http://www.slideshare.net/aquihiko/ss-60516411)
+- 11月2日(月) SAKE Party/アリストンホテル神戸16階バルセロナ/入場：無料（定員250名）
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/9dxHIv7ysHwphe" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/aquihiko/ss-60516411" title="&quot;おもしろい研究&quot;への挑戦 - Challenges for &quot;Omoshiroi&quot; research" target="_blank">&quot;おもしろい研究&quot;への挑戦 - Challenges for &quot;Omoshiroi&quot; research</a> </strong> from <strong><a href="//www.slideshare.net/aquihiko" target="_blank">Akihiko Shirai</a></strong> </div>
+「SIGGRAPH ASIA 2015」の来場者を招き、神戸が誇る日本酒を楽しんでいただきながら交流 を深める「酒パーティー」を開催いたします。ゲストとして、東京大学大学院情報学環より河口洋一郎教授をお招きいたします。
+日時：　2015年11月2日（月）19:00 – 21:00
+主催：　SIGGRAPH ASIA 2015ローカルコミッティ
+共催：　SIGGRAPH ASIA2015カンファレンス参加メンバー有志
+会場：　アリストンホテル神戸16階バルセロナ　http://www.ariston.jp/kobe/access/
+兵庫県神戸市中央区港島中町6-1　TEL:078-303-5555
+入場：　無料（定員250名）
 
-実はこの63ページのスライドとは別に，予稿も書いていたりします．
-ぜんぜん異なるアスペクトなので，以下，PDFの予稿も公開します．
+- 11月3日(火) 19時から21時 公式レセプション
 
+※10/28現在、「単体でのレセプションチケットは完売しました」との表示。残念。
+シーグラフアジア2015 公式レセプション
+業界関係者が一堂に会するネットワーキング・レセプションです。LEDダンスや音楽演奏のパフォーマンスも予定されています。コンピュータグラフィックスやインタラクティブ技術に携わる世界各国の業界人と情報交換が可能な有意義なイベントに是非ご参加ください。
+入場資格:フルカンファレンスパス（通し券）所持者
+※レセプションの入場券は登録カウンターで販売致します。
+入場料：　2,000円（事前受付は完売致しました。）
+会場：　神戸ポートピアホテル　南館１F　大輪田
+所在地：　神戸市中央区港島中町6丁目10-1
+http://www.portopia.co.jp/
 
-ダウンロードリンクは一番下においておきました．
-文中に本来あるべき論文等の引用はPDF版で見ていただければ幸いです．
+- 11月4日(水) 19時～　VFX-JAPANパーティ（三宮　troop cafe）
 
-## "おもしろい研究''への挑戦 Challenges for "Omoshiroi'' research
-- 著者 白井 暁彦（神奈川工科大学 情報学部 情報メディア学科 准教授）当時
-- Akihiko SHIRAI, Ph.D (Kanagawa Institute of Technology)
-- 2016-03-19
+一般社団法人VFX-JAPANは、会員を中心とした交流会を11月4日（木）19:00から
+神戸市三宮にて開催致します。当日は、国内外のゲストの皆様にもご参加を頂きますので、VFX-JAPAN会員の皆様やSIGGRAPH ASIA関係者との交流を深めて頂ければと存じます。SIGGRAPH ASIA 2015 KOBEに来場される方であれば、参加可能ですので、ぜひご参加ください。会費は、ビュッフェ、フリードリンクにてVFX-JAPAN会員\3,000、非会員\5,000です。 完全予約制となりますのでご参加の方は下記からお申し込み下さい。
+【詳細案内・事前予約】
+https://vfx-japan.com/event20151104/
+日時：　11月4日(水)19:00～21:30 (開場 18:30)
+会場：　三宮　troop cafe　http://troopcafe.jp/access
+兵庫県神戸市中央区北長狭通2-11-5　Tel: 078-321-3130
 
-## Abstract
-This article is a retrospective view for Professor Makoto SATO and his final lecture. The author studied in spatial force feedback display for augmented reality system with his supervisor Prof. SATO from 2001 to 2004 and the experience have been applied into entertainment systems research to current education in computer media.
+- 11月5日(木)19時～ CG-ARTS:プロダクションパーティ　SIGGRAPH ASIA in KOBE
 
-## 君，おもしろいね」から始まった師弟関係
+2015年11月5日(木) 19:00～深夜未明／申込締切 11月3日（火）／クラブ月世界
+世界から6000人ものCG関係者が集まるこの機会に、日本のCG関連プロダクション
+が合同で主催するパーティを、ローカルコミッティとコラボレーションして開催 します。
+開催日は、最終日の11月5日。ＤＪ、ＶＪ、ダンスあり….SIGGRAPH ASIA最後の 夜を
+思いっきり、ともに盛り上がりましょう。入場料は無料。キャッシュオンデリバ リーで
+飲食いただけます！以下サイトより事前にお申し込みください。
+日時：　2015年11月5日(木) 19:00～深夜未明
+会場：　クラブ月世界（三宮） http://gessekai.net/
+兵庫県神戸市中央区下山手通1-3-8 月世界ビル　Tel:078-331-6540
+申し込み： https://www.facebook.com/events/898784540210691/
+https://member.cgarts.or.jp/cgarts/ais/user/Answer?qid=4454461
 
-佐藤先生との出会いは，小生の初めてのSIGGRAPH参加であったSIGGRAPH'97が最初であったように記憶している．佐藤研究室「Virtual basketball」に感動し，その後，日本VR学会第2回大会(名古屋・1997年)および，SIGGRAPH'98での [Foot Interface: Fantastic Phantom Slipper](https://www.youtube.com/watch?v=vU_SBt7GJ6A) を，当時の所属大学であった東京工芸大学 写真工学科 光情報処理研究室より発表する切っ掛けとなった．当時はVRは2回目のバブルを迎えており，2016年現在よりも100倍ほど高価な投資が必要ではあったが，夢もフロンティア精神もある時代であった．小生は画像工学専攻を卒業後，キヤノン株式会社に籍を置き，BJプリンタの工場である福島工場を経て，グループの英国ゲームエンジン開発企業Criterionに移籍し，PlayStation2を起爆剤とする世界のビデオゲーム業界の裏方で充実しつつも忙しい日々を過ごしていた．
+ 
 
-佐藤先生との再会の舞台はSIGGRAPH2000であった．リアルタイムコンピュータグラフィックス技術においては，物理シミュレーションを取り込み，大きく進歩する時代であった．佐藤研究室は「4+4 Fingers Direct Manipulation With Force Feedback」，つまりSPIDARでRubik's cubeを操作するデモを Emerging Technologies: Point of Departure においてデモしていた．
+## ■FAQ
 
-グラフィックス技術のみではゲームのリアリティには寄与できても「本質的なおもしろさ」には寄与できないことに限界を感じつつも「ビデオゲーム産業」の中でジレンマを感じながらR\&Dの本質に悩む日々の小生に，佐藤先生はさわやかな笑顔で「君，おもしろいね」「うちに来ない？」と，妻も子もいる悩めるエンジニアをアカデミアの世界への誘ったのであった．
+ご質問は 日本語FacebookかTwitter（@o_ob）にお寄せ下さい！中高生の質問も歓迎です！日本語Twitterハッシュタグはとりあえず #SIGGRAPH15Kobe で行きたいと思います。
 
-<img src="./img/ProfSatoT.png" width="200">
-- 佐藤誠先生：著者によるイラスト
+### Q: メディア（報道関係者）はどうやって登録したらいいのでしょうか？
 
-- 佐藤先生の自然な笑顔，本当は笑っていない事も．
-- An illustration of natural smile of Prof.Sato drawn by author. It was difficult to see if it is not laughing truly.
+A: 北米SIGGRAPHの場合はこちらにあるようなメディア登録の基準が掲載されておりますが、ケルンメッセに問い合わせたところ「何かしらの記事を取り上げて頂けるところであれば支給する」とのことでした。「申請内容としては、基本的に媒体名、発行部数をご提示して頂くようにしておりますが、当然ブロガーやWebでの媒体もその対象としております。また特別に社内報や会員向けのものとして取り上げて頂けるところにも、こちらの判断で発行させて頂いております。現在シンガポールにてその対応をしておりますが、やはりメディアによっては日本語しか対応ができない方々もたくさんいらっしゃると思いますので、その場合こちら日本事務局の方で取り次ぐようにしております」とのことでしたので、こちらからお問い合わせ下さい。
 
-## 佐藤研究室でのエクスペリエンス
+### Q: 登録（有料分）にはクレジットカードによる支払いが必要ですか？
+A: 登録者本人のクレジットカードが必要です。クレジットカードがない方の場合は、会場の受付カウンターにて現金でご購入頂く事になるそうです。なお、無料登録だけであればカードは不要なのでまずは10/28までに参加登録をすることがおすすめと思います。
 
-このような縁あって，2001年4月より総合理工学研究科 知能システム科学専攻にフルタイム博士学生として在籍することになったのだが，東工大，精密工学研究所，佐藤研究室はゲーム産業のエンジニアとしては，カルチャーショックも大きく学ぶことも多くあった．博士論文「床面提示型触覚エンタテイメントシステムの提案と開発」については本稿では割愛するが，当時助手であった長谷川晶一先生と汎用物理エンジンSPRINGHEADの設計や，大型SPIDARにおける構造構築ノウハウ，Maxonモーターの取り扱いなど，論文というアウトプットには表出しない技術と品質，そして糸張力型触覚力覚ディスプレイSPIDAR（Space Interface Device for Artificial Reality）自身がもつ可能性と制約の突破へのチャレンジはその後のフランスLavalや，日本科学未来館での展示物開発には大変役に立った．
-
-## 「おもしろい研究」の定義との闘い
-
-現在ではエンタテイメントシステムを「人の娯楽に作用するようデザインされたコンピュータシステム」と定義し，幅広く研究を行っているが，佐藤研究室在学当時，工学博士に見合う水準のエンジニアリング，実験品質，研究ストラテジ，論文構築能力などは大変厳しく指導いただいた．中でも東工大の文化において「おもしろい」を研究テーマにすることは難しく，博士課程の前半において大変ストイックに取り組んでいたことを記憶している．ゲーム開発企業在籍時に準備していた資金も完全に尽き，大変苦しい生活をしながら，それでも衝突も多かった．書き上げた300ページの博士論文を200ページほど削除することになったこともある．
-
-博士論文審査においては，専攻の先生方から「（この研究は）人類の歴史において，どのような貢献があるのか？」との問いを突き付けられた．知能システム科学の博士すべてに問われているであろうこの質問は，真を突いた質問で，感極まって本番の最中に泣き崩れた記憶もある．博士取得という体験はそういうものではないだろうか．
-
-## 「一見，無駄なこと」を真剣に研究する
-
-触覚やエンタテイメントシステムは，華がある研究ではあったけれども，当時のコンピュータには必要があるという認識は薄かった．
-
-佐藤先生と小生は「PlayStation4のころにはVRデバイスが標準になる」と予言しており，2016年現在，それは真実となったが，VRのアカデミズムと企業や産業での活動には大きな乖離がある時期でもあった．
-
-自分自身の産業界から博士取得への挑戦に何度も後悔しながら，研究室がSIGGRAPHに毎年参加できるようなユニークな研究やデモの開発を支援した．
-
-佐藤研究室には大きなお金を投じた研究もあれば，まったく予算がつかない研究もある．予算がつかなければ知恵や頓智や裏テーマで頑張るしかない．佐藤先生は寛大にすべてを理解するわけではないし，むしろ頑固な指導者であったと思う．企業の研究者や多くの学生から見れば，小生は「一見，無駄なこと」に大変一生懸命取り組んでいたように見えるのではないか．
-
-先生の指導に理不尽を感じながらも，研究提案の執筆，アカデミックボランティアとしての各学会誌への執筆などで筆も鍛え，長谷川先生と，当時東大の博士学生であった稲見先生らとともに，学生VRコンテスト「IVRC」の国際化委員としてのコミットメントを深く行っていた．このような無駄な貢献こそが，博士という開拓者にとっては，その後のキャリアの中でも大きな転機になったと振り返ることができる．
-
-## 「おもしろい研究」への転機
-
-佐藤先生は土曜日に教官室で活動されていることが多かった．何故か，他の曜日とは異なるインタフェースを持ち合わせていた記憶がある．
-
-博士論文と苦学生として伸び悩む小生に「君の研究は難しい／すごい研究とかではないのかもしれないが，``おもしろい研究''ではあるよね」と優しい言葉をかけていただいたことが，その後のアイデンティティ構築につながっている．小生は難しいことが難しいままであることに挑戦していた向きもあるのであろう．それ以後は，難しいことを難しいままではなく，明快に，わかりやすく，人々の面白い（Interest）を引き付けるという才能を自分自身で評価し，開拓していかなければならないと認識した．
-
-まるで道化かもしれないが，科学やエンジニアリングといった軸だけが全てではない．そして全ての研究者が同じ才能を持っているわけではない，これは大変重要な気づきである．
-
-その後のNHK技研でのポスドク，フランスLavalでの活動，先端科学を社会に伝える仕事である日本科学未来館での科学コミュニケーターといった，経歴においても大変役に立った生き抜くスキルの一つでもある．
-
-## 博士取得後の研究
-
-博士取得後の小生の研究は触覚よりもむしろ，より幅広いエンタテイメントシステムの研究分野の拡大に注力した．
-
-### 多重化映像技術
-
-![多重化ディスプレイ技術のロードマップ / Road map of multiplex imaging technology](/img/RoadMap.png)
-- 多重化ディスプレイ技術のロードマップ
-
-中でも，一つのディスプレイで複数の映像を視聴することができる多重化映像技術は長い歴史を持ちつつある．
-
-最初の世代は中嶋正之先生のご紹介で教鞭をとらせていただいた，東工大世界文明センターでの非常勤講義「メディアアート技法」を発端としている．
-
-2009年当時，東工大学部生であった長野光希さん（現，南カリフォルニア大），濱田健夫さん（その後，佐藤研），宇津木健さん（その後，山口雅浩研），平野実花（東京工科大）らと，メディアアート的発想で3Dディスプレイに付加価値を加える多重化技術「Scritter」を構築し，Laval Virtualで発表した．
-
-その後，ガンマ補正による色キャンセル技術を加えた多重化隠蔽映像技術「ScritterH」を生み出し，2D+3Dハイブリッドシアター技術「2x3D」などに発展した．現在は，パッシブ3Dフラットパネルディスプレイにおける多重化隠蔽技術「ExPixel」や，メガネなし立体ディスプレイと互換ディスプレイによる多重化技術「ExField」を使った拡張現実感技術を開拓している．
-
-HMDによるVRブームのそのあとに，触覚技術とともに新たな「斜め上」の研究開発として社会に普及することを期待している．
-
-### 2D+3Dハイブリッドシアターシステム「2x3D」
-
-!["2x3D'', 2D+3D hybrid theater system](/img/2x3d.jpg)
-![figure "2x3D'', 2D+3D hybrid theater system](/img/exp2x3d.jpg])
-
-- "2x3D'', 2D+3D hybrid theater system
-
-![メガネなし拡張現実ディスプレイ / Glassless Augumented Reality Display](/img/GAD.png)
-
-- メガネなし拡張現実 / ディスプレイGlassless Augumented Reality Display
-
-### おもしろさの評価技術
-
-博士学生時代に悩みに悩んだ「おもしろさの評価技術」も実りがあった．
-
-言葉が不自由なフランス留学時代は，ゲームをプレイする糸張力型ロボット「RoboGamer」，日本語や英語といった言語による評価を利用せず，GPUを使用した超高速画像認識や，ゲーム内キャラクターの選択を利用したコンテンツ評価などの研究において，意味を持った．
-
-赤外線レーザセンサを使った測距技術と，ユーザのふるまいを収集評価する集合知技術は，日本科学未来館3F常設展示「アナグラのうた」の基盤設計として大変役に立った．それ以外も，スマートフォンを使った動画視聴時の笑い検出「Wara-L」や，笑顔認識を使った展示体験前後の評価技術など，今後も発展が期待できる分野である．
-
-### 学生VRコンテストから世界へ，産業へ
-
-アカデミックボランティアとして2001年から継続支援している国際学生VRコンテスト「IVRC」も，佐藤先生や長谷川先生らとともに，実行委員や審査委員として参加させていただいている．国際担当委員として，2002年より毎年，SIGGRAPH Birds of a Feather(BoF) meetingを開催し，日本にとどまらず，米国カーネギーメロン大学ETCとの交流，フランスLavalでのVRによる地域振興活動とつながり大きな橋となった．
-
-現在もフランスを中心に交流は拡大・継続しており，フランスLaval留学時に立ち上げたLaval Virtualにおける国際VR作品公募展「ReVolution」は2006年より現在も継続し，日仏を旅したVR作品とそれに関わる学生は100人を超えている．
-
-指導した学生，サポートした学生らも，IVRCやLaval Virtualという「VRの甲子園」への挑戦や経験は大きく影響を受けており，時には自身の研究室から「Manga Generator」といった参加学生の卒業後も産業からの需要が続くようなプロジェクトも登場する．審査員や実行委員としての公平公正な立場を維持しつつも，支援者，主催者，教育者としてVR産業やイノベーションを支援していくことは中々大変であるが，これも小生でなければできない仕事のひとつでもあるのでこれからも無理なく継続していこうと考えている．
-
-### おわりに
-
-佐藤先生が研究人生の長きを投じた触覚VR，SPIDAR，大画面没入型ディスプレイの研究は，それ個々の技術だけではなく，その研究姿勢において小生の研究者としての資質に大きな影響を与えた．
-
-10年，15年，20年といった期間において「現在は必要と思われていない技術」を価値が出るまで探求し続けるその姿勢は，今後も小生および小生の教え子たちに価値を生み続けるはずである．
-
-そして，佐藤先生自身も，ブリーダーとして日々多頭のコーギーを引き連れながら，その手綱の張力を手で感じ，人類の歴史に貢献する，いや，人類以外の触覚にも貢献する次世代の「おもしろい研究」に挑戦を続けるものと信じている．
-
-謝辞：佐藤先生の最終講義にむけ，この場をお借りして，ご準備・ご機会いただいた長谷川晶一先生，博士時代にご支援いただいた小池康晴先生，そして人生において大きな学びの機会を頂いた，佐藤誠先生に敬意と感謝を記します．
-
-- 2016年3月19日
-
-#### 著者紹介
-白井 暁彦1992年 東京工芸大学工学部最後の写真工学科卒業，1996年 同大学院画像工学専攻卒業．キヤノン(株)，キヤノングループの英国ゲーム関連企業Criterionを経て2001年 東京工業大学総合理工学研究科博士後期課程に復学，2004年に『床面提示型触覚エンタテイメントシステムの提案と開発』で博士(工学)取得．(財)NHK‐ES，フランスLavalでのVRによる地域振興，日本科学未来館科学コミュニケーターを経て，現在 神奈川工科大学 情報学部 情報メディア学科 准教授．専門はVRエンタテイメントシステム，メディアアートの工学教育．著書に『WiiRemoteプログラミング』，『白井博士の未来のゲームデザイン－エンターテインメントシステムの科学』など．
-
-★文中に本来あるべき論文等の引用はPDF版で見ていただければ幸いです．
-
-おまけ：
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">昨日頂いたSPIDAR-Sを動作確認。<br>「ハプティック技術推進協議会」という名の東工大佐藤誠研究室にはマブチモーターで触覚デバイス作る動画も。<a href="https://t.co/ZYm6wnyhXQ">https://t.co/ZYm6wnyhXQ</a> <a href="https://t.co/5cJDF3Wall">pic.twitter.com/5cJDF3Wall</a></p>
-<a href="https://twitter.com/o_ob/status/711546525780877313?ref_src=twsrc%5Etfw">March 20, 2016</a></blockquote>
-
-当時の論文に興味がある人はこちらが良いかと思います．■「エンタテイメントシステム」（芸術科学会論文誌）
-http://www.art-science.org/journal/v3n1/v3n1pp022/artsci-v3n1pp022.pdf
-
-博士論文もかつて公開していましたが，サーバごと消えていますね，今度発掘作業しておきます．
-→[発掘作業しました](https://kaitas.github.io/AkihikoSHIRAI-DoctorThesis2004.html)
-
-
-<a href="./download/ProfSato20160319.pdf" onclick="ga('send', 'pageview', './download/ProfSato20160319.pdf')">
-▶ (PDF) おもしろい研究"への挑戦
-</a>
 
 ### History
-- Published in [aki's right brain](http://aki.shirai.as/challenges-for-omoshiroi-research/) at 2016-04-06
-- Moved to [aki's left brain](https://kaitas.github.io/2016-03-19-ProfStato.html) at 2020-06-16
+- Published in [aki's right brain](https://aki.shirai.as/sa2015/) at 2015-10-01
+- Moved to [aki's left brain](https://projects.shirai.as/sa2015/) at 2020-08-02
